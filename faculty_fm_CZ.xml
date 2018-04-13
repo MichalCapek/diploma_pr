@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<Faculty>
+    <FacultyName>Fakulta mechatroniky, informatiky a mezioborových studií</FacultyName>
+    <FacultyID>0</FacultyID>
+    <FacultyWeb>www.fm.tul.cz</FacultyWeb>
+    <FacultyDescription>Faculty description - optional,editable</FacultyDescription>
+    <FacultyOfficeMo>8.30 - 11.00, 13.00 - 14.30</FacultyOfficeMo>
+    <FacultyOfficeTu>8.30 - 11.00</FacultyOfficeTu>
+    <FacultyOfficeWe>8.30 - 11.00</FacultyOfficeWe>
+    <FacultyOfficeTh>8.30 - 11.00, 13.00 - 14.30</FacultyOfficeTh>
+    <FacultyOfficeFr>-</FacultyOfficeFr>
+    <FacultyPhone>485 353 429</FacultyPhone>
+    <FacultyEmail>dana.skrbkova@tul.cz</FacultyEmail>
+    <FacultyEmployee>Ing. Dana Skrbková</FacultyEmployee>
+    <FacultyBuilding>A</FacultyBuilding>
+    <FacultyRoom>02019 (1. patro budovy A)</FacultyRoom>
+</Faculty>
